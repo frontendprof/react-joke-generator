@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <h1>Chuck Norris Jokes Generators</h1>
-      <h2>Here goes a joke:</h2>
+      <h2>Click below to get a joke:</h2>
       <button>Get a new joke 😄 </button>
     </div>
   );
